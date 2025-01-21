@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "led.h": "c",
+        "key.h": "c",
+        "main.h": "c",
+        "oled_font.h": "c",
+        "lora.h": "c",
+        "tim.h": "c",
+        "oled.h": "c",
+        "delay.h": "c",
+        "stm32g0xx.h": "c",
+        "stm32g0xx_hal.h": "c"
+    }
+}
